@@ -1,0 +1,52 @@
+{
+    "product": [
+        {
+            "_id": "dress1",
+            "title": "Midi sundress shirring detail",
+            "descriptin": "about dress 1",
+            "image": "/images/dress1.jpg",
+            "price":19,
+            "availableSize":["SL", "XXL"]
+        },
+        {
+            "_id": "dress2",
+            "title": "Midi sundress ruched front",
+            "descriptin": "about dress 2",
+            "image":"/images/dress2.jpg",
+            "price":29.8,
+            "availableSize":["SL", "XXL"]
+        },
+        {
+            "_id": "dress3",
+            "title": "Midi sundress ruched front",
+            "descriptin": "about dress 3",
+            "image":"/images/dress3.jpg",
+            "price":18.5,
+            "availableSize":["SL", "XXL"]
+        },
+        {
+            "_id": "dress4",
+            "title": "Midi dress in pink floral",
+            "descriptin": "about dress 4",
+            "image":"/images/dress4.jpg",
+            "price":35.5,
+            "availableSize":["SL", "XXL"]
+        },
+        {
+            "_id": "dress5",
+            "title": "cami maxi dress in polka dot",
+            "descriptin": "about dress 5",
+            "image":"/images/dress5.jpg",
+            "price":20.2,
+            "availableSize":["SL", "XXL"]
+        },
+        {
+            "_id": "dress6",
+            "title": "Frill mini dress yellow polka dot",
+            "descriptin": "about dress 6",
+            "image":"/images/dress6.jpg",
+            "price":19.38,
+            "availableSize":["SL", "XXL"]
+        }
+    ]
+}
